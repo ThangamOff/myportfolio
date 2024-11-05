@@ -727,6 +727,24 @@
 .contactbox{
     width: 100%;
 }
+.home{
+    margin-top: 20px;
+}
+.about{
+    margin-top: 20px;
+}
+.skill{
+    margin-top: 20px;
+}
+.education{
+    margin-top: 20px;
+}
+.portfolio{
+    margin-top: 20px;
+}
+.contact{
+    margin-top: 20px;
+}
 
 
 
