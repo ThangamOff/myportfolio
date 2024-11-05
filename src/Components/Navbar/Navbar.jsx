@@ -34,18 +34,22 @@ function movedata(data) {
   console.log(data);
   data.current.scrollIntoView({
     behavior: "smooth",
-    block: "start"
+    block: "start"    
   })
-  
+}
+const [open, setopen] = useState(false)
+function openlist(params) {
+  setopen(!open)
 }
   return (
     <>
       <div className='nav'>
-        <div className='left'>
+        <div className="left">
           <div className='logo'>
             <h1>Portfolio</h1>
+            <p onClick={openlist}><MdOutlineMenu /></p>
           </div>
-              <div className='navmenu'>
+              <div className={open?"navmenu1":'navmenu'}>
                 <p onClick={()=>movedata(homeref)}>Home</p>
                 <p onClick={()=>movedata(aboutref)}>About</p>
                 <p onClick={()=>movedata(skillref)}>Skills</p>
@@ -66,10 +70,6 @@ function movedata(data) {
                 <div className='homecoin'>
                   <div className='wel'>
                     <h2>Welcome Home</h2>
-                    <div className='mob'>
-                      <h1>Portfolio</h1>
-                      <p><MdOutlineMenu /></p>
-                    </div>
                   </div>
                   <div className='profile'>
                       <h3>Thangamadasamy,</h3>
