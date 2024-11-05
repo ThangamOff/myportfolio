@@ -47,7 +47,7 @@ function openlist(params) {
         <div className="left">
           <div className='logo'>
             <h1>Portfolio</h1>
-            <p onClick={openlist}><MdOutlineMenu /></p>
+            <p onClick={openlist}><MdOutlineMenu className='menu_i' /></p>
           </div>
               <div className={open?"navmenu1":'navmenu'}>
                 <p onClick={()=>movedata(homeref)}>Home</p>
