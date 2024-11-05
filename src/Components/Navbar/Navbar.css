@@ -536,9 +536,11 @@
     display: flex;
     gap: 10px;
     transition: 1s;
-    z-index: 999;
+    z-index: 9999;
     padding: 20px;
-    position: relative;
+    position: fixed;
+    top: 0;
+    left: 0;
 
  }
  .menu_i{
@@ -560,6 +562,11 @@
    padding: 20px;
    font-size: 21px;
    font-weight: 600;
+   color: white;
+   backdrop-filter: blur(2px);
+   border-radius: 7px;
+   box-shadow: 0 2px 4px 0 white;
+
 }
 .navmenu1{
    position: absolute;
@@ -576,15 +583,20 @@
    padding: 20px;
    transition: 1s;
    z-index: 999;
-   background-color: #ccc6c6;
+   background-color:rgba(0, 0, 0, 0.5);
    font-size: 21px;
    font-weight: 600;
+   color: white;
+   backdrop-filter: blur(2px);
+   border-radius: 7px;
+   box-shadow: 0 2px 4px 0 white;
 }
 .welpara p {
     display: flex;
     align-items: center;
     font-size: 14px; 
     color: #333; 
+
 }
 .logo{
     word-wrap: 100%;
@@ -604,6 +616,7 @@
 }
 .right{
     overflow: hidden;
+    margin-top: 80px;
 }
 .home{
     width: 100%;
@@ -611,6 +624,14 @@
     flex-direction: column;
     padding: 20px;
 }
+.navmenu p{
+   color: white;
+
+}
+.navmenu1 p{
+    color: white;
+ 
+ }
 .homecoin{
     width: 100%;
     height: auto;
