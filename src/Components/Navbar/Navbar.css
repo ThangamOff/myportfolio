@@ -732,19 +732,34 @@
 .home{
     margin-top: 20px;
 }
+.wel h2{
+    margin-top: 20px;
+}
 .about{
+    margin-top: 20px;
+}
+.about h2{
     margin-top: 20px;
 }
 .skill{
     margin-top: 20px;
 }
+.sk-head h1{
+    margin-top: 20px;
+}
 .education{
+    margin-top: 20px;
+}
+.edu-head h1{
     margin-top: 20px;
 }
 .portfolio{
     margin-top: 20px;
 }
 .contact{
+    margin-top: 20px;
+}
+.title h1{
     margin-top: 20px;
 }
 
