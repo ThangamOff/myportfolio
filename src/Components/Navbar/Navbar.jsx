@@ -75,7 +75,7 @@ function openlist(params) {
                       <h3>Thangamadasamy,</h3>
                       <h4><span className='slide-in'>Fornt-end Developer</span></h4>
                     <div className='welpara'>
-                      <p><GoMail className='coin' />thangamadasamymariyappan2003@gmail.com</p>
+                      <p><GoMail className='coin' />thangam252003@gmail.com</p>
                       <p><MdOutlinePhoneForwarded className='coin' /> +91 63793 18998</p>
                       <p><MdShareLocation className='coin' /> Rajapalayam</p>
                     </div>
@@ -222,7 +222,7 @@ function openlist(params) {
                   <div className='contactbox'>
                     <h1><MdOutlineMarkEmailRead /></h1>
                     <h2>EMail</h2>
-                    <p>Thangam@gmail.com</p>
+                    <p>thangam252003@gmail.com</p>
                   </div>
                   <div className='contactbox'>
                     <h1><FiPhoneCall /></h1>

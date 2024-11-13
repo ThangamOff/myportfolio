@@ -701,6 +701,10 @@
     padding: 0;
     margin-top: 30px;
 }
+.skimg{
+    width: 100%;
+    padding: 8px;
+}
 .edu-head {
     margin-top: 0;
 }
@@ -736,32 +740,33 @@
     margin-top: 20px;
 }
 .about{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .about h2{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .skill{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .sk-head h1{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .education{
     margin-top: 20px;
 }
 .edu-head h1{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .portfolio{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .contact{
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .title h1{
-    margin-top: 20px;
+    margin-top: 10px;
 }
+
 
 
 
