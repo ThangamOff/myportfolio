@@ -627,7 +627,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 30px;
 }
 .navmenu p{
    color: white;
@@ -669,10 +669,13 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+    margin: 0 auto;
 }
 .img img{
-    width: 90%;
+    width: 100%;
     height: 100%;
+    padding: 10px;
+    margin: 0;
 }
 .theme{
     display: none;
@@ -680,6 +683,7 @@
 .contain{
     display: flex;
     flex-direction: column;
+    gap: 20px;
 }
 .ab-img{
     width: 100%;
@@ -741,18 +745,21 @@
 }
 .about{
     margin-top: 20px;
+    padding: 30px;
 }
 .about h2{
     margin-top: 10px;
 }
 .skill{
     margin-top: 20px;
+    padding: 30px;
 }
 .sk-head h1{
     margin-top: 10px;
 }
 .education{
     margin-top: 20px;
+    padding: 30px;
 }
 .edu-head h1{
     margin-top: 10px;
@@ -762,6 +769,7 @@
 }
 .contact{
     margin-top: 20px;
+    padding: 30px;
 }
 .title h1{
     margin-top: 10px;
