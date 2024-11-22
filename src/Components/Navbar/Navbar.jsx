@@ -170,20 +170,18 @@ function openlist(params) {
                 </div>
                 <div className='edu-con'>
                   <div className='edu-box'>
-                    <h2>Kamaraj University</h2>
-                    <p>2020 - 2023</p>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, quas animi sunt similique harum nam enim maiores error inventore! Recusandae laboriosam illum assumenda vitae eaque veritatis provident vero, dignissimos, reiciendis enim exercitationem excepturi minus repudiandae dolorem cum maiores obcaecati iste!</p>
-                  </div>
-                  <div className='edu-box'>
                     <h2>V.H.N.S.N College</h2>
-                    <h3>Bachelor of Business Administration</h3>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, quas animi sunt similique harum nam enim maiores error inventore! Recusandae laboriosam illum assumenda vitae eaque veritatis provident vero, dignissimos, reiciendis enim exercitationem excepturi minus repudiandae dolorem cum maiores obcaecati iste!</p>
+                    <p>2020 - 2023</p>
+                    <p>Thangamadasamy completed a Bachelor of Business Administration (BBA) degree in 2023. He successfully graduated after completing all the required coursework and exams. During his time in the program, he gained valuable knowledge and skills in business management. His education equipped him with the foundational tools for pursuing a career in various business sectors. Thangamadasamy is now looking forward to applying his expertise in the professional world.</p>
                   </div>
                   <div className='edu-box'>
-                    <h2>aaaaaa</h2>
-                    <h3>Bachelor of Business Administration</h3>
-                    <p>2020 - 2023</p>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, quas animi sunt similique harum nam enim maiores error inventore! Recusandae laboriosam illum assumenda vitae eaque veritatis provident vero, dignissimos, reiciendis enim exercitationem excepturi minus repudiandae dolorem cum maiores obcaecati iste!</p>
+                    <h2>Kamarajar Higher Secondary School</h2>
+                    <p>Thangamadasamy attended the School Arts Group from 2018 to 2020. During these two years, he was involved in various artistic and cultural activities, enhancing his creativity and teamwork skills. His time in the group helped him develop a strong appreciation for the arts and allowed him to explore different forms of expression. Through his participation, Thangamadasamy also built lasting relationships with fellow students. This experience played an important role in shaping his personal and artistic growth.</p>
+                  </div>
+                  <div className='edu-box'>
+                    <h2>Course</h2>
+                    <h3>Front End-developer</h3>
+                    <p>From August to November 2024, I have been studying a Front-End Developer course that also includes React.js. Over these four months, I have learned essential web development skills such as HTML, CSS, JavaScript, and React.js. The course has provided me with practical knowledge of building dynamic, responsive websites. I have gained hands-on experience in creating user interfaces with React.js, enhancing my development skills. With this training, I am now well-prepared to pursue a career in front-end development.</p>
                   </div>
                 </div>
               </div>
